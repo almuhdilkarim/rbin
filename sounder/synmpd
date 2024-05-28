@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mpc clear &&
+cd $HOME/Music &&
+mpc add *
