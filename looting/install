@@ -1,0 +1,5 @@
+#!/bin/bash
+
+curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux -o youtube-get &&
+mkdir library &&
+mv youtube-get library
